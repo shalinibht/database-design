@@ -1,3 +1,13 @@
+/**
+
+Author: Shalinee Bhatta
+Date: 3/8/2020
+
+Sample Queries for online retail
+
+
+
+**/
 
 /* Would the database be able to tell which other customers had bought 
 the same product a given customer or prospective customer had bought 
